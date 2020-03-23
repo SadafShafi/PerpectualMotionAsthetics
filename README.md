@@ -21,4 +21,6 @@ Following were used for it:
 4) Power supply
 
 
+Here's what it looked like
+
 ![LOGO](https://github.com/SadafShafi/PerpectualMotionAsthetics/blob/master/Aesthetika6.jpg)
