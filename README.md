@@ -19,3 +19,6 @@ Following were used for it:
 2) 2 Hall sensors
 3) Coil to generate magnetic field
 4) Power supply
+
+
+![LOGO](https://github.com/SadafShafi/PerpectualMotionAsthetics/blob/master/Aesthetika6.jpg)
