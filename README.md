@@ -1,4 +1,4 @@
------------------------------------------------------- ![LOGO](https://github.com/SadafShafi/Sadaf-Shafi/blob/master/9ea05902-36d6-4a11-9c24-ab2b88fd4bd4_200x200.png)-------------------------------------------------
+------------------------------------------------------ ![LOGO](https://github.com/SadafShafi/PerpectualMotionAsthetics/blob/master/per_logo.png)-------------------------------------------------
 
 This is my first IoT project ever.
 I did it along with other 2 Mechanical engineering and an Electrical Engineering students, namely
